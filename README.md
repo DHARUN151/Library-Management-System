@@ -66,5 +66,3 @@ This backend system allows you to perform CRUD operations on books (Create, Read
 This project is licensed under the MIT License.
 
 ---
-
-Would you like me to also include a **short section describing the expected book fields** (like bookId, title, author, year) in this text-only README?
