@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 async function connection() {
-    const connection = await mongoose.connect(process.env.);
+    const connection = await mongoose.connect(process.env.connection);
     console.log("connected to db");
 
     
@@ -10,4 +10,5 @@ async function connection() {
 
 
 module.exports = connection;
+
 
